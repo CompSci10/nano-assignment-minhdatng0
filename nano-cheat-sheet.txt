@@ -1,2 +1,9 @@
-Ctrl+x : exit
-Ctrl+o : rename
+Ctrl+x : Exit
+Ctrl+o : Rename
+Ctrl+w : Search for a string or a regular expression
+Ctrl+k : Cut the  current line and store it in the cutbuffer
+Ctrl+a : Go to the beginning of the current line
+Ctrl+e : Go to the end of the current line
+Esc+g : Go to the line and colum number
+Esc+$ : Soft wrappping of overlong lines enable/disable
+Esc+| : Go to the frist line of the file
