@@ -7,3 +7,14 @@ Ctrl+e : Go to the end of the current line
 Esc+g : Go to the line and colum number
 Esc+$ : Soft wrappping of overlong lines enable/disable
 Esc+| : Go to the frist line of the file
+Esc+s : Smooth scrolling enable/disable
+Esc+i : Auto indent enable/disable
+Esc+w : Repeat the last search
+
+
+
+
+
+
+
+
